@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="1000" height="300" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 # **My Introduction**
 - ## 👋 I am **Sarim**
 - 18 Y/O From Pakistan`🇵🇰`
