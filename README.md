@@ -8,4 +8,5 @@
 - ## 📫 How to reach me
    - Instagram: https://www.instagram.com/syedmuhammad_sarim/
    - Discord ID `Sarim8133`
+ ## ⚡Recent GitHub Activity
  [![Sarim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarim8133&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
