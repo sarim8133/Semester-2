@@ -1,11 +1,16 @@
 <img align="center" alt="Coding" width="1000" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 # **My Introduction**
-- ## 👋 I am **Sarim**
+
+ ## 👋 I am **Sarim**
+
 - 18 Y/O From Pakistan`🇵🇰`
-- ## 👀 I’m interested in Coding👨‍💻 and Gaming🎮
-- ## 🌱 I’m currently learning Computer Sciences from FAST University ![image](https://github.com/user-attachments/assets/5de29751-81dd-4933-b6fc-cfc093593fdf)
-- ## 📫 How to reach me 
+
+ ## 👀 I’m interested in Coding👨‍💻 and Gaming🎮
+
+ ## 🌱 I’m currently learning Computer Sciences from FAST University ![image](https://github.com/user-attachments/assets/5de29751-81dd-4933-b6fc-cfc093593fdf)
+
+ ## 📫 How to reach me 
   - <a href="https://www.instagram.com/syedmuhammad_sarim/"> Instagram</a> <img align="left" alt="Coding" width="100" height="50" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif">
   #
   - `Sarim8133` <img align="left" alt="Coding" width="100" height="50" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif">
